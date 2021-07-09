@@ -1,6 +1,6 @@
 - Hi, I’m @njhoes
 - 📍 Amsterdam
-- 💻 I’m looking for skilled developers to join our team at Rebels.io...
+- 💻 I’m looking for skilled developers to join our team...
 - 💌 nicole@rebels.io
 
 <!---
